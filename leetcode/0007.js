@@ -25,7 +25,7 @@ var reverse = function(x) {
     return 0;
 };
 
-/* Given a 32-bit signed integer, reverse digits of an integer.
+/* Reverse Integer: Given a 32-bit signed integer, reverse digits of an integer.
 Example 1:
 Input: 123
 Output: 321
