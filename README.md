@@ -1,2 +1,8 @@
 # is-thirteen
-if (someNumber == 13)// true else   //false
+
+```
+if (someNumber == 13)
+  return true 
+else   
+  return false
+```
